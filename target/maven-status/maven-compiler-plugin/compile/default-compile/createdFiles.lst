@@ -1,0 +1,8 @@
+backend/JsonReader.class
+backend/NewsController.class
+backend/NewsAdapter.class
+backend/ApiMessage.class
+backend/SpringMVCUtils.class
+backend/News.class
+backend/Application.class
+backend/NewsObjectJson.class
